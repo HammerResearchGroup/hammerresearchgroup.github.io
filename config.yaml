@@ -12,7 +12,7 @@ params:
   fontFamily: "IBM Plex Sans"
 
   label:
-    text: "IDEA Epi Lab"
+    text: "Hammer Lab"
     icon: "assets/images/icon-2.png"
     iconHeight: 28
 
