@@ -27,18 +27,34 @@ title: ""
 
 ## PI: Dr Charlotte Hammer
 
-I am an applied infectious disease epidemiologist, sometimes social scientist, and public health emergency specialist. In January 2025, I joined the Centre for the Study of Existential Risk at the University of Cambridge as an Assistant Professor and founded the IDEA Lab.  
-My applied experience spans national and international public health agencies, policy institutions, and humanitarian organisations, including deployments with the Global Outbreak Alert and Response Network.
+<div style="
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  align-items: flex-start;
+  margin-bottom: 2rem;
+">
 
+  <img
+    src="/assets/images/charlotte-hammer.jpg"
+    alt="Charlotte Hammer"
+    style="
+      width: 180px;
+      height: 180px;
+      object-fit: cover;
+      border-radius: 50%;
+      flex-shrink: 0;
+    "
+  />
 
-## Team Members
+  <div style="flex: 1; min-width: 280px;">
 
+  <p>
+  I am an applied infectious disease epidemiologist, sometimes social scientist, and public health emergency specialist. In January 2025, I joined the Centre for the Study of Existential Risk at the University of Cambridge as an Assistant Professor and founded Hammer Lab.
+  </p>
 
-<div class="cards">
-
-<div class="card">
-<h4>Dr Dorien Braam</h4>
-<p>Research Affiliate</p>
+  <p>
+  My applied experience spans national and international public health agencies, policy institutions, and humanitarian organisations, including deploymentsiate</p>
 </div>
 
 <div class="card">
@@ -73,9 +89,7 @@ My applied experience spans national and international public health agencies, p
 
 </div>
 
-
 ## Research Students
-
 
 <div class="cards">
 
@@ -101,21 +115,13 @@ My applied experience spans national and international public health agencies, p
 
 </div>
 
-
 ## Alumni
 
 Dr Richard Armitage
-
 Teresa Artho
-
 Lyndesey Bryden
-
 Isobel Campbell
-
 Harry Johnson
-
 Anya Kapoor
-
 Udoka Okonkwo
-
 Sonya Sander
