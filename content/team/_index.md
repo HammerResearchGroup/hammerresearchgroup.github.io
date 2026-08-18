@@ -54,7 +54,11 @@ title: ""
   </p>
 
   <p>
-  My applied experience spans national and international public health agencies, policy institutions, and humanitarian organisations, including deploymentsiate</p>
+  My applied experience spans national and international public health agencies, policy institutions, and humanitarian organisations, including deployments with the Global Outbreak Alert and Response Network.
+  
+  </p>
+</div>
+
 </div>
 
 ## Team Members
