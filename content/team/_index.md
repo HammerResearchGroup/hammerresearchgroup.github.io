@@ -102,13 +102,6 @@ My applied experience spans national and international public health agencies, p
 </div>
 
 
-## Dissertation and Project Students
-
-
-<div class="cards">
-
-</div>
-
 ## Alumni
 
 Dr Richard Armitage
