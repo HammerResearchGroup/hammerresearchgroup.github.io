@@ -63,6 +63,8 @@ title: ""
 
 ## Team Members
 
+<div class="cards">
+
 <div class="card">
 <h4>Dr Edward Lam</h4>
 <p>Visiting Researcher</p>
