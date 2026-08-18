@@ -48,7 +48,10 @@ title: ""
   />
 
   <div style="flex: 1; min-width: 280px;">
-
+ <p>
+      
+  </p>
+    
   <p>
   I am an applied infectious disease epidemiologist, sometimes social scientist, and public health emergency specialist. In January 2025, I joined the Centre for the Study of Existential Risk at the University of Cambridge as an Assistant Professor and founded Hammer Lab.
   </p>
