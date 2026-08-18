@@ -124,12 +124,28 @@ title: ""
 </div>
 
 ## Alumni
-
+  <p>
 Dr Richard Armitage
+</p>
+
+  <p>
 Teresa Artho
+    </p>
+    <p>
 Lyndesey Bryden
+      </p>
+    <p>
 Isobel Campbell
+      </p>
+    <p>
 Harry Johnson
+      </p>
+    <p>
 Anya Kapoor
+      </p>
+    <p>
 Udoka Okonkwo
+      </p>
+    <p>
 Sonya Sander
+ </p>
