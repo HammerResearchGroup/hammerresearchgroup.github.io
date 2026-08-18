@@ -61,6 +61,16 @@ My applied experience spans national and international public health agencies, p
 <p>Research Fellow</p>
 </div>
 
+<div class="card">
+<h4>Dr Sam Pritchard</h4>
+<p>Academic F1 Physician</p>
+</div>
+
+<div class="card">
+<h4>Sebastian Kulzer</h4>
+<p>Incoming Visiting Researcher</p>
+</div>
+
 </div>
 
 
@@ -85,37 +95,17 @@ My applied experience spans national and international public health agencies, p
 </div>
 
 <div class="card">
-<h4>Sam Pritchard</h4>
-<p>Medical student</p>
-</div>
-
-<div class="card">
 <h4>Friederike Suhr</h4>
-<p>Incoming visiting PhD student</p>
+<p>Visiting PhD student</p>
 </div>
 
 </div>
 
 
-## MPhil Dissertation Students
+## Dissertation and Project Students
 
 
 <div class="cards">
-
-<div class="card">
-<h4>Teresa Artho</h4>
-<p>MPhil Population Health Sciences</p>
-</div>
-
-<div class="card">
-<h4>Anya Kapoor</h4>
-<p>MPhil Population Health Sciences</p>
-</div>
-
-<div class="card">
-<h4>Sonya Sander</h4>
-<p>MPhil Population Health Sciences</p>
-</div>
 
 </div>
 
@@ -123,10 +113,16 @@ My applied experience spans national and international public health agencies, p
 
 Dr Richard Armitage
 
-Isobel Campbell
+Teresa Artho
 
 Lyndesey Bryden
 
+Isobel Campbell
+
 Harry Johnson
 
+Anya Kapoor
+
 Udoka Okonkwo
+
+Sonya Sander
