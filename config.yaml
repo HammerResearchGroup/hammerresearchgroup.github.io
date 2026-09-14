@@ -14,8 +14,6 @@ params:
 
   label:
     text: "Hammer Group"
-    icon: "assets/images/icon-2.png"
-    iconHeight: 28
 
   footer: 
     text: |
