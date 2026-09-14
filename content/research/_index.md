@@ -25,7 +25,7 @@ title: "Our Research"
 }
 </style>
 
-<img src="/assets/images/landscape.png" alt="IDEA Lab Research Landscape" style="width:100%; max-width:800px; display:block; margin:auto;">
+![Research Approach](/assets/images/research_approach.jpg)
 
 
 
