@@ -13,7 +13,7 @@ params:
   fontFamily: "IBM Plex Sans"
 
   label:
-    text: "Hammer Group"
+    text: "Hammer Group "
 
   footer: 
     text: |
