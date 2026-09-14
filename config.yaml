@@ -1,5 +1,5 @@
 baseURL: ""
-title: "Hammer Lab"
+title: "Hammer Group"
 theme: hugo-PaperMod
 
 markup:
@@ -9,6 +9,7 @@ markup:
 
 params:
   defaultTheme: light
+  disableThemeToggle: true
   fontFamily: "IBM Plex Sans"
 
   label:
