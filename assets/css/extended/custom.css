@@ -78,3 +78,12 @@ p {
 .logo a {
   color: #2A2F36;
 }
+
+html,
+body {
+  background: #ffffff !important;
+}
+
+:root {
+  --theme: #ffffff !important;
+}
