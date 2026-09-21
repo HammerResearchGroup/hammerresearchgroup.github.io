@@ -38,6 +38,10 @@ h3 {
   padding-top: 1rem;
 }
 
+body {
+  background-color: #ffffff;
+}
+
 a {
   color: #3F6FB5;
   text-decoration: none;
