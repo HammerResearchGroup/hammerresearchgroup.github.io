@@ -38,6 +38,10 @@ h3 {
   padding-top: 1rem;
 }
 
+:root {
+  --theme: #ffffff;
+}
+
 .main {
   background-color: #ffffff;
 }
