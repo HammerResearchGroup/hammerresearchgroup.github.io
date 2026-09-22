@@ -64,7 +64,7 @@ a:hover {
 }
 
 .home .main {
-  max-width: 1400px;
+  max-width: 1500px;
 }
 
 p {
@@ -95,13 +95,18 @@ body {
 .home-split {
   display: grid;
   grid-template-columns: 1fr 2fr;
-  gap: 4rem;
+  gap: 5rem;
   align-items: start;
   margin: 4rem 0;
 }
 
 .home-split-reverse {
   grid-template-columns: 2fr 1fr;
+}
+
+/* Headings sit slightly below the top of their text column */
+.home-split-title {
+  padding-top: 1.25rem;
 }
 
 .home-split-title h2 {
@@ -112,10 +117,27 @@ body {
   margin-top: 0;
 }
 
+/* Separation between consecutive homepage sections */
+.home-split + .home-split {
+  border-top: 1px solid #d9dee5;
+  padding-top: 5rem;
+  margin-top: 5rem;
+}
+
+/* Stack cleanly on smaller screens */
 @media (max-width: 768px) {
   .home-split,
   .home-split-reverse {
     grid-template-columns: 1fr;
     gap: 1rem;
+  }
+
+  .home-split-title {
+    padding-top: 0;
+  }
+
+  .home-split + .home-split {
+    padding-top: 2.5rem;
+    margin-top: 2.5rem;
   }
 }
