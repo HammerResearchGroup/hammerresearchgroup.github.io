@@ -36,11 +36,11 @@ Emerging threats are rarely silent if you know where to look. They manifest thro
 
 Our work is motivated by a central question: how early can epidemic threats be recognised, understood, and acted upon? It explores how these distributed signals can be interpreted within complex, interconnected systems, with the aim of shifting from reactive response towards anticipatory preparedness in a rapidly changing global risk landscape.
 
-Together, this work defines an approach to epidemic and pandemic threat analysis that focuses on interpreting early signals of risk within complex and changing systems.
+Together, this work defines an approach to outbreak science as epidemic and pandemic threat analysis that focuses on interpreting early signals of risk within complex and changing systems thereby building multi-domain outbreak intelligence.
 
 ---
 
-## Developing a Pandemic Complexity Science
+## Developing a Pandemic and Outbreak Complexity Science
 
 ### An integrated analytical framework combining complex systems epidemiology and futures methods to characterise, anticipate, and manage epidemic risk in destabilised systems.
 
@@ -90,6 +90,11 @@ We are developing an analytic and methodological framework for understanding and
 
 <div class="card">
 <h4>Methods Development</h4>
+<p></p>
+</div>
+
+<div class="card">
+<h4>Outbreak Science and Response</h4>
 <p></p>
 </div>
 
