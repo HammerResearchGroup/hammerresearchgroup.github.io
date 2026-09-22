@@ -4,7 +4,7 @@ title: ""
 
 ## How do we find tomorrow’s outbreaks in today’s noise?
 
-Early signals of epidemic risk are often present long before disease becomes visible, but they are fragmented, ambiguous, and easy to overlook.
+Early signals of epidemic risk are often present long before disease becomes visible, but they are fragmented, ambiguous, and easy to overlook. That's why we are building multi-domain outbreak intelligence and foresight approaches to improve early detection and response to infectious disease threats.
 
 Led by [Dr Charlotte Hammer](/team/), the Hammer Group investigates how epidemic and pandemic threats emerge and can be anticipated in complex and changing systems. We focus on identifying and interpreting early signals of risk across human, animal, and environmental domains, with the aim of recognising and acting on emerging threats before they escalate into large-scale outbreaks.
 
