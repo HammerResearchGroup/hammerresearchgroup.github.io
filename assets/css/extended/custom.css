@@ -91,3 +91,27 @@ body {
 :root {
   --theme: #ffffff !important;
 }
+
+.home-split {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 4rem;
+  align-items: start;
+  margin: 3rem 0;
+}
+
+.home-split-title h2 {
+  margin-top: 0;
+}
+
+.home-split-text p:first-child {
+  margin-top: 0;
+}
+
+/* Return to one column on smaller screens */
+@media (max-width: 768px) {
+  .home-split {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+}
