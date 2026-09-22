@@ -97,7 +97,11 @@ body {
   grid-template-columns: 1fr 2fr;
   gap: 4rem;
   align-items: start;
-  margin: 3rem 0;
+  margin: 4rem 0;
+}
+
+.home-split-reverse {
+  grid-template-columns: 2fr 1fr;
 }
 
 .home-split-title h2 {
@@ -108,20 +112,10 @@ body {
   margin-top: 0;
 }
 
-/* Return to one column on smaller screens */
 @media (max-width: 768px) {
-  .home-split {
+  .home-split,
+  .home-split-reverse {
     grid-template-columns: 1fr;
     gap: 1rem;
-  }
-}
-
-.home-split.reverse {
-  grid-template-columns: 2fr 1fr;
-}
-
-@media (max-width: 768px) {
-  .home-split.reverse {
-    grid-template-columns: 1fr;
   }
 }
