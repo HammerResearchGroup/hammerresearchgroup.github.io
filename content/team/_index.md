@@ -148,9 +148,6 @@ title: ""
 </div>
 
 ## Alumni
-  <p>
-Dr Richard Armitage
-</p>
 
   <p>
 Teresa Artho
