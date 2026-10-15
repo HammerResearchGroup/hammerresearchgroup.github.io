@@ -53,7 +53,7 @@ title: ""
   </p>
     
   <p>
-  I am an applied infectious disease epidemiologist, sometimes social scientist, and public health emergency specialist. In January 2025, I joined the Centre for the Study of Existential Risk at the University of Cambridge as an Assistant Professor and founded Hammer Lab.
+  I am an applied infectious disease epidemiologist, sometimes social scientist, and public health emergency specialist. In January 2025, I joined the Centre for the Study of Existential Risk at the University of Cambridge as an Assistant Professor.
   </p>
 
   <p>
@@ -90,17 +90,22 @@ title: ""
 
 <div class="card">
 <h4>Dr Sam Pritchard</h4>
-<p>Academic F1 Physician</p>
+<p>Academic FY1</p>
 </div>
 
 <div class="card">
 <h4>Sebastian Kulzer</h4>
-<p>Incoming Visiting Researcher</p>
+<p>Visiting Researcher</p>
+</div>
+
+<div class="card">
+<h4>Dr Richard Armitage</h4>
+<p>Research Affiliate</p>
 </div>
 
 </div>
 
-## Research Students
+## Postgraduate Research Students
 
 <div class="cards">
 
@@ -122,6 +127,22 @@ title: ""
 <div class="card">
 <h4>Friederike Suhr</h4>
 <p>Visiting PhD student</p>
+</div>
+
+</div>
+
+## Undergraduate Students
+
+<div class="cards">
+
+<div class="card">
+<h4>Jenny Lin</h4>
+<p>Part II Project Student</p>
+</div>
+
+<div class="card">
+<h4>Winston Tan</h4>
+<p>Part II Student</p>
 </div>
 
 </div>
