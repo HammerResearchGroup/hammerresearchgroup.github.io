@@ -145,6 +145,11 @@ title: ""
 <p>Part II Student</p>
 </div>
 
+<div class="card">
+<h4>Zinzi Sibanda</h4>
+<p>Part II Dissertation Student</p>
+</div>
+
 </div>
 
 ## Alumni
