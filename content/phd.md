@@ -31,3 +31,7 @@ Candidates are in the first instance encouraged to contact the primary superviso
 **Application deadline:** Dec. 8 (11.59pm UK time, i.e. before midnight) via the normal Cambridge Application Portal
 
 **Interview:** We aim to interview applicants successful in the first stage in the week commencing Dec. 14 – interviews will be remote/virtual (changes to the scheduling of this are still possible)
+
+**Application Portal:** https://www.postgraduate.study.cam.ac.uk/courses/directory/iethpdgrr
+**Departmental Information:** https://www.cser.ac.uk/education/phd/
+**CamDTP:** https://www.cam-dtp.ac.uk/students/current-opportunities/
