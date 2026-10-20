@@ -9,8 +9,8 @@ I am always keen to hear from individuals interested in opportunities within the
 
 ## Current Opportunities
 
-#PhD Studentship on AI in Health Emergency Preparedness 
+**PhD Studentship on AI in Health Emergency Preparedness**
 
-This is an exciting opportunity to join our group as a PhD Student. The project is funded through a supervisor-led Cambridge DTP studentship. Further information on the project and application process can be found here and further information on the CamDTP can be found here.
+This is an exciting opportunity to join our group as a PhD Student. The project is funded through a supervisor-led Cambridge DTP studentship. Further information on the project and application process can be found [here](/phd/) and further information on the CamDTP can be found here.
 
 
